@@ -2,6 +2,8 @@
 
 A Video.js plugin that adds bookmark management UI, keyboard shortcuts, and progress markers, following the style and configuration options of `videojs-markers`.
 
+Online demo [videojs-bookmark/demo](https://chathuragh.github.io/videojs-plugins/videojs-bookmark/demo/index.html).
+
 ## Install
 
 Include after Video.js:
@@ -76,5 +78,7 @@ player.bookmark({
 
 ## Demo
 Online demo [videojs-bookmark/demo](https://chathuragh.github.io/videojs-plugins/videojs-bookmark/demo/index.html).
+
 or
+
 Open `demo/index.html` in a server.
