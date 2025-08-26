@@ -75,5 +75,6 @@ player.bookmark({
 - `b`: add bookmark at current time (uses `defaultsForHotkeyAdd`)
 
 ## Demo
-
+Online demo [videojs-bookmark/demo](https://chathuragh.github.io/videojs-plugins/videojs-bookmark/demo/index.html).
+or
 Open `demo/index.html` in a server.
